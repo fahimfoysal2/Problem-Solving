@@ -1,51 +1,59 @@
-export function stack(stackOperation, stackValue) {
-    var stackHolder = {
-        count: 3,
-        storage: [
-            1,
-            '{id: 1,value: "obj"}',
-            "stringHolder",
-            46
-        ]
-    };
+var stackHolder = {
+    count: 3,
+    storage: [
+        1,
+        '{id: 1,value: "obj"}',
+        "stringHolder",
+        46
+    ]
+};
 
-    var push = function (value) {
-        stackHolder.storage[stackHolder.count] = value;
+/**
+ *
+ * @param stackOperation (string): The operation to be performed on the stack
+ * @param stackValue (any): The value to be used in the operation
+ * @returns [] : Array
+ */
+function stack(stackOperation = "print", stackValue = undefined) {
+    this.push = function (value) {
+        if (value !== undefined) {
+            stackHolder.count++;
+            stackHolder.storage.push(value);
+        }
         return stackHolder.storage;
     }
 
-    var pop = function () {
-        if (stackHolder.count === 0) {
+    this.pop = function () {
+        if (stackHolder.count < 0) {
             return [];
         }
 
-        var poppedItem = stackHolder.storage[stackHolder.count];
-        delete stackHolder.storage[stackHolder.count];
         stackHolder.count--;
-        return poppedItem;
+        return [stackHolder.storage.pop()];
     }
 
-    var peek = function () {
-        return [stackHolder.storage[0]];
+    this.peek = function () {
+        return [stackHolder.storage[stackHolder.count]];
     }
 
-    var swap = function () {
+    this.swap = function () {
+        if (stackHolder.count < 1) return stackHolder.storage;
+
+        let temp = stackHolder.storage[stackHolder.count];
+        stackHolder.storage[stackHolder.count] = stackHolder.storage[stackHolder.count - 1];
+        stackHolder.storage[stackHolder.count - 1] = temp;
         return stackHolder.storage;
     }
 
     switch (stackOperation) {
         case 'push':
-            push(stackValue);
-            break;
+            return this.push(stackValue);
         case 'pop':
-            pop();
-            break;
+            return this.pop();
         case 'swap':
-            swap();
-            break;
+            return this.swap();
         case 'peek':
-            peek();
-            break;
+            return this.peek();
         default:
             return stackHolder.storage;
     }
