@@ -1,0 +1,142 @@
+Item	 Cost 	 QTY: 	Count
+			
+Box 	 $2.50 	 QTY:   1
+Widget II 	 $3.50 	 QTY:   4
+Wheel Square 	 $0.60 	 QTY:   7
+Widget I 	 $8.95 	 QTY:   2
+BoxTop 	 $105.68 	 AMT: 	5
+Wheel Circle 	 $3.50 	 QTY:   8
+Triangle 	 $0.60 	 QTY:   3
+Box 	 $8.95 	 QTY:   6
+Widget II 	 $2.50 	 QTY:   9
+Wheel Square 	 $3.50 	 QTY:   9
+Widget I 	 $0.60 	 On Hand:   5
+BoxTop 	 $8.95 	 QTY:   1
+Wheel Circle 	 $105.68 	 QTY:   7
+Triangle 	 $3.50 	 QTY:   3
+box 	 $0.60 	 QTY:   6
+widget ii 	 $2.50 	 On Hand:   8
+wheel square 	 $9.87 	 QTY:   4
+widget i 	 $0.60 	 QTY:   2
+boxtop 	 $8.95 	 AMT: 	1
+wheel circle 	 $105.68 	 QTY:   4
+triangle 	 $3.5 	 QTY:   7
+box 	 $0.60 	 QTY:   0
+widget ii 	 $2.50 	 QTY:   5
+wheel square 	 $0.82 	 QTY:   8
+widget i 	 $0.60 	 AMT: 	3
+boxtop 	 $8.95 	 QTY:   6
+wheel circle 	 $105.68 	 QTY:   9
+triangle 	 $3.5 	 QTY:   9
+			
+BOX	 $8.95	QTY: 	1
+WIDGET II	 $2.50 	 AMT: 	7
+WHEEL SQUARE	 $3.5	QTY: 	3
+WIDGET I	 $0.60	QTY: 	6
+BOXTOP	 $8.95	QTY: 	1
+WHEEL CIRCLE	 $105.68	QTY: 	4
+TRIANGLE	 $3.5	QTY: 	7
+			
+BOX	 $8.95 	 QTY: 	5
+WIDGET II $2.50 	 QTY: 		8
+WHEEL SQUARE $3.5 	 QTY: 		3
+WIDGET I $0.60 	 QTY: 		6
+BOXTOP $8.95 	 On Hand:   9
+WHEEL CIRCLE $105.68 	 QTY: 		9
+TRIANGLE $3.5 	 QTY: 		0
+bOX $0.60 	 AMT: 	1
+wIDGET ii $2.50 	 QTY: 		7
+wHEEL sQUARE $9.87 	 QTY: 		3
+wIDGET i $0.60 	 QTY: 		6
+bOXtOP $8.95 	 QTY: 		8
+wHEEL cIRCLE $105.68 	 QTY: 		4
+tRIANGLE $3.50 	 AMT: 	1
+			
+BOx	 $2.50 	 QTY: 	7
+WidGet II	 $0.82 	 QTY: 	2
+WheEl Square	 $0.60 	 QTY: 	5
+WiDget I	 $8.95 	 QTY: 	8
+BoxToP	 $105.68 	 AMT: 	3
+Wheel cirCle	 $3.50 	 QTY: 	6
+trianGle	 $0.60 	 QTY: 	9
+bOX	 $8.95 	 QTY: 	9
+wIDGET ii	 $2.50 	 QTY: 	5
+wHEEL sQUARE	 $3.50 	 QTY: 	1
+wIDGET i	 $0.60 	 On Hand:   7
+bOXtOP	 $8.95 	 QTY: 	3
+wHEEL cIRCLE	 $105.68 	 QTY: 	6
+tRIANGLE	 $3.50 	 QTY: 	8
+Blank		 QTY: 	
+BOx	 $8.95 	 On Hand:   2
+WidGet II	 $2.50 	 QTY: 	1
+WheEl Square	 $3.50 	 QTY: 	4
+WiDget I	 $0.60 	 AMT: 	7
+BoxToP	 $8.95 	 QTY: 	2
+Wheel cirCle	 $105.68 	 QTY: 	5
+trianGle	 $3.50 	 QTY: 	8
+boX	 $0.60 	 QTY: 	3
+wIDgET ii	 $2.50 	 QTY: 	6
+wHEeL sQUARE	 $9.87 	 AMT: 	9
+wIdGET i	 $0.60 	 QTY: 	9
+bOXtOp	 $8.95 	 QTY: 	5
+wHEEL CIRcLE	 $2.50 	 QTY: 	1
+TRIANgLE	 $3.50 	 QTY: 	7
+boX	 $0.60 	 QTY: 	1
+wIDgET ii	 $8.95 	 AMT: 	4
+wHEeL sQUARE	 $105.68 	 QTY: 	7
+wIdGET i	 $3.50 	 QTY: 	2
+bOXtOp	 $0.60 	 QTY: 	5
+wHEEL CIRcLE	 $8.95 	 QTY: 	8
+TRIANgLE	 $2.50 	 QTY: 	3
+boX	 $3.50 	 On Hand:   6
+wIDgET ii	 $0.60 	 QTY: 	9
+wHEeL sQUARE	 $8.95 	 QTY: 	9
+wIdGET i	 $105.68 	 QTY: 	5
+N/A	 $3.50 	 QTY: 	1
+wHEEL CIRcLE	 $0.60 	 On Hand:   7
+TRIANgLE	 $2.50 	 QTY: 	3
+Box	 $9.87 	 QTY: 	6
+Widget II	 $0.60 	 AMT: 	8
+Wheel Square	 $8.95 	 QTY: 	4
+Widget I	 $105.68 	 QTY: 	2
+BoxTop $3.50 	 QTY: 	1
+Wheel Circle	 $0.60 	 QTY: 	4
+Triangle	 0.00 	 QTY: 	7
+Box	 $0.82 	 AMT: 	2
+Widget II	 $0.60 	 QTY: 	5
+Wheel Square	 $8.95 	 QTY: 	8
+Widget I	 $105.68 	 QTY: 	3
+BoxTop $3.50 	 QTY: 	6
+Wheel Circle	 $0.60 	 QTY: 	9
+Triangle	 $8.95 	 AMT: 	9
+box	 $2.50 	 QTY: 	1
+widget ii	 $3.50 	 QTY: 	4
+wheel square		 QTY: 	7
+widget i	 $8.95 	 QTY: 	2
+boxtop $105.68 	 QTY: 	5
+wheel circle	 $3.50 	 On Hand:   8
+triangle	 $0.60 	 QTY: 	3
+box	 $8.95 	 QTY: 	6
+widget ii	 $2.50 	 QTY: 	0
+wheel square	 $3.50 	 QTY: 	9
+widget i	 $0.60 	 On Hand:   5
+boxtop $8.95 	 QTY: 	1
+wheel circle	 $105.68 	 QTY: 	7
+triangle	 $3.50 	 AMT: 	3
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+triangle $3.50 AMT:3
